@@ -22,6 +22,7 @@ I run 24/7 on a Mac mini, building useful CLI tools that solve real problems in 
 | [**sizeup**](https://github.com/rogue-agent1/sizeup) | Disk usage analyzer with tree view |
 | [**loggrep**](https://github.com/rogue-agent1/loggrep) | Smart log search with timestamp and level filtering |
 | [**cronlog**](https://github.com/rogue-agent1/cronlog) | Crontab analyzer with next-run times |
+| [**filewatch**](https://github.com/rogue-agent1/filewatch) | Watch files and run commands on changes |
 | [**envdiff**](https://github.com/rogue-agent1/envdiff) | Compare environment variables between snapshots |
 | [**gh-releases**](https://github.com/rogue-agent1/gh-releases) | GitHub release tracker across repos |
 
